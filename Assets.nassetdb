@@ -1,0 +1,12 @@
+{
+    "385967c0-c277-d655-af60-6fbdfaa47231": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Thumbnail/Warehouse_Thumb.tex.nasset"
+    },
+    "af3eb914-eae7-4983-a478-1e30a286b8f0": {
+        "assetTypeGuid": "926268b2-2d45-4c52-87c9-d76815217359",
+        "path": "Package.nplugin",
+        "name": "Warehouse Assets"
+    },
+    "guid": "0d9c8d99-3c0a-c42a-72f5-437fd74574f5"
+}
